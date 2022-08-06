@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
 ./fullpi.sh > pi.txt | ./care.sh
