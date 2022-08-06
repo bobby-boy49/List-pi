@@ -1,1 +1,3 @@
 example file.
+
+Use outpi.sh to output pi to this file.
