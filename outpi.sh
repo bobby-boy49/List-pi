@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./fullpi.sh > pi.txt | ./line-count.sh
+./fullpi.sh > pi.txt | ./bytes.sh
