@@ -1,3 +1,3 @@
 #!/bin/sh
 
-time ./fullpi.sh > pi.txt | ./bytes.sh
+./fullpi.sh > pi.txt | ./bytes.sh
