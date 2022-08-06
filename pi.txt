@@ -1,3 +1,4 @@
 example file.
 
 Use outpi.sh to output pi to this file.
+I recommend using the "time" command to time how long the process took.
